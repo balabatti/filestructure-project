@@ -3,7 +3,6 @@
 #include <fstream>
 #include <string.h>
 #include <sstream>
-#include <ctime>
 #include <stdio.h>
 using namespace std;
 void delete_record_animals()
